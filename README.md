@@ -6,4 +6,5 @@ Python ile belirli bir IP adresi aralığına sahip rastgele IP adreslerini olu�
 Ayrıca, her IP adresi için "ipinfo.io" API'sini kullanarak IP adresinin ülkesini belirlemeye çalışır. Bu sayede, IP adresinin hangi ülkede olduğu hakkında daha fazla bilgi edinilebilir.
 <br>
 <br>
-Kod, çoklu iş parçacıklar kullanarak hızlı bir şekilde birçok IP adresine istek gönderir ve yanıtları toplar. Kodun çalıştırılması için kullanıcıdan istek sayısı girilmesi gerekmektedir.
+Kod, çoklu iş parçacıklar (CPU) kullanarak hızlı bir şekilde birçok IP adresine istek gönderir ve yanıtları toplar. Kodun çalıştırılması için kullanıcıdan istek sayısı girilmesi gerekmektedir.
+
